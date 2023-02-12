@@ -1,8 +1,8 @@
 module.exports = {
-  title: "Harry Potter",
+  title: "Tianyu Du",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
-  base: "/",
+  base: "/tydusky.github.io/",
   dest: "./dist",
 
   themeConfig: {
